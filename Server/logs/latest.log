@@ -1,0 +1,21 @@
+[02:19:10] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[02:19:10] [Server thread/INFO]: Loading properties
+[02:19:10] [Server thread/INFO]: Default game type: SURVIVAL
+[02:19:10] [Server thread/INFO]: Generating keypair
+[02:19:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:19:10] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-6-g4d832c3-b3090jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2-SNAPSHOT)
+[02:19:10] [Server thread/INFO]: Preparing level "world"
+[02:19:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2456007563277757593)
+[02:19:11] [Server thread/INFO]: Preparing spawn area: 22%
+[02:19:12] [Thread-6/INFO]: ----- Bukkit Auto Updater -----
+[02:19:12] [Thread-6/INFO]: It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[02:19:12] [Thread-6/INFO]: If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+[02:19:12] [Thread-6/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[02:19:12] [Thread-6/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[02:19:12] [Thread-6/INFO]: ----- ------------------- -----
+[02:19:12] [Server thread/INFO]: Preparing spawn area: 62%
+[02:19:13] [Server thread/INFO]: Preparing spawn area: 88%
+[02:19:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: 2456007563277757593)
+[02:19:14] [Server thread/INFO]: Preparing start region for level 2 (Seed: 2456007563277757593)
+[02:19:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:19:14] [Server thread/INFO]: Done (4,422s)! For help, type "help" or "?"
